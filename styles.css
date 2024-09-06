@@ -139,6 +139,8 @@ body {
     height: 100px;
     object-fit: cover;
     margin-bottom: 10px;
+    border: 2px solid;
+    border-color: #3b82f6;
 }
 
 .tile-box p {
