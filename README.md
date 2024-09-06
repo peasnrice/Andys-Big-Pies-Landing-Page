@@ -1,8 +1,7 @@
 ## Odin Project Landing Page
 The Odin Project Foundation Course landing page assignment.
 
-## IMAGE CREDITS
-
+## Image Credits
 Author: [Craig Dennis](https://www.pexels.com/@craigmdennis/)  
 <img src="https://images.pexels.com/photos/899235/pexels-photo-899235.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="Brown Bread on Silver Bowl" style="max-width: 200px; height: auto;"/>
 
