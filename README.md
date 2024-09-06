@@ -1,3 +1,6 @@
+## Odin Project Landing Page
+The Odin Project Foundation Course landing page assignment.
+
 ## IMAGE CREDITS
 
 Author: [Craig Dennis](https://www.pexels.com/@craigmdennis/)  
