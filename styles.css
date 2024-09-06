@@ -76,16 +76,15 @@ body {
 
 .section-1>.right-side {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     min-width: 200px;
 }
 
 .section-1-image {
+    flex: 0 1 0;
     max-width: 100%;
-    max-height: 300px;
-    height: auto;
-    width: auto;
 }
 
 .section-1 p {
@@ -150,8 +149,8 @@ body {
 .tile-box img {
     border-color: #3b82f6;
     border-radius: 10px;
-    width: 100px;
-    height: 100px;
+    min-width: 100px;
+    min-height: 100px;
     object-fit: cover;
     margin-bottom: 10px;
     border: 2px solid;
