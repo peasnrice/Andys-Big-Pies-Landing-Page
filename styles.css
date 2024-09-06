@@ -107,17 +107,19 @@ body {
     flex-direction: column;
     justify-content: flex-start;
     align-items: center;
+    padding-top: 0;
 }
 
 .section-2 .title {
     font-weight: bold;
+    font-size: 24px;
 }
 
 .tile-boxes {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    gap: 10px;
+    gap: 30px;
     flex-wrap: wrap;
 }
 
@@ -126,6 +128,8 @@ body {
     font-weight: normal;
     text-align: center;
     flex: 1;
+    font-size: 12px;
+    font-weight: 100;
 }
 
 .tile-box img {
@@ -155,8 +159,10 @@ body {
 }
 
 .section-3 .quote-text {
-    text-align: center;
+    text-align: justify;
     font-style: italic;
+    font-weight: 100;
+    font-size: 24px;
 }
 
 .section-3 .quote-author {
@@ -177,7 +183,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    gap: 30px
+    gap: 10px
 }
 
 .section-4 .title {
@@ -214,4 +220,15 @@ body {
 
 .cta-box>.left-side {
     flex: 4;
+}
+
+.footer {
+    background-color: #1f2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: normal;
+    font-size: 12px;
+    padding: 15px;
 }
