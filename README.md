@@ -1,5 +1,17 @@
-## Odin Project Landing Page
+# Andy’s Big Pies — Landing Page
+A simple landing page that practices layout, typography, and calls to action.
 The Odin Project Foundation Course landing page assignment.
+
+## Features
+- Static hero section and feature blocks
+- Call to action and footer
+- Clean semantic HTML and utility CSS
+
+## Tech
+- HTML, CSS
+
+## Getting Started
+Open `index.html` in a browser, or serve with a static server.
 
 ## Image Credits
 Author: [Craig Dennis](https://www.pexels.com/@craigmdennis/)  
@@ -16,3 +28,5 @@ Author: [Nishant Aneja](https://www.pexels.com/@nishantaneja/)
 
 Author: [Jo Macabre](https://www.pexels.com/@jomacabre/)  
 <img src="https://images.pexels.com/photos/7469449/pexels-photo-7469449.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="Sliced Lemon on Black Wooden Table" style="max-width: 200px; height: auto;"/>
+
+
